@@ -34,7 +34,7 @@
 </div>
  <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-barbosa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-barbosa&layout=compact&theme=dark&hide_border=true)
 
 ## Canais de contato
 

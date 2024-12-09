@@ -4,7 +4,7 @@
 
 
 ```diff
-👨‍💻 Desenvolvedor Web apaixonado por experiências visuais
+👨‍💻 Desenvolvedor Web e Mobile apaixonado por experiências visuais
 
 ⭐ Interesse em aprender coisas novas 
 

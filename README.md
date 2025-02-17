@@ -15,12 +15,13 @@
 
 ## 💻 Tecnologias  
 
+<p>
+  
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-barbosa&layout=compact&theme=dark&hide_border=true" alt="Top Langs">
-
-<p aling="left">
+</p>
 
 #### 🎨 Front-end  
-<p>
+<p aling="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -32,11 +33,9 @@
 </p>
 
 #### 🖥️ Back-end  
-<p>
+<p aling="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</p>
-
 </p>
